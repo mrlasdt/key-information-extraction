@@ -1,0 +1,1 @@
+python3 main.py --cfg id_card >/dev/null 2>&1
